@@ -14,3 +14,6 @@ so they were an accessory after the fact.
 6. The murderer was not the youngest member.
 
 Solve this Murder, and provide a clear argument that proves your allegations
+
+## Solution
+Here is a solition to the problem wrirten in lean4 (See [solution theorem](https://github.com/somombo/murder-mystery/blob/83a28b620647e3dc4a04b3de47818ac9753e372d/MysteryMurder.lean#L194))

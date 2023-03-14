@@ -260,3 +260,8 @@ theorem solution : witness = daughter ∧ victim = son ∧ accessory = father �
         | father =>  exact Roles.noConfusion (isAccessory ▸ h5.symm ▸ isWitness)
 
       exact ⟨h9, rfl, h5, h8⟩
+
+
+def hello := s!"world. You are using Lean version {Lean.versionString} "
+#eval hello
+#eval "PROOVED!!!"

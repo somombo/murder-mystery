@@ -2,7 +2,7 @@
 a logic murder mystery word problem solved in lean prover
 
 Murder occurred one evening in the home of a father and mother and 
-their son and daughter. One member of the family murdered another member, 
+their son and daughter. Each family member played a distict role. One member of the family murdered another member, 
 the third member witnessed the crime, and the fourth helped cover it up 
 so they were an accessory after the fact.
 

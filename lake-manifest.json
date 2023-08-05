@@ -1,27 +1,36 @@
-{"version": 4,
- "packagesDir": "lake-packages",
- "packages":
- [{"git":
-   {"url": "https://github.com/leanprover-community/mathlib4.git",
-    "subDir?": null,
-    "rev": "f503fe607228edde1e64d3b4306f23c7429abfae",
-    "name": "mathlib",
-    "inputRev?": null}},
-  {"git":
-   {"url": "https://github.com/gebner/quote4",
-    "subDir?": null,
-    "rev": "7ac99aa3fac487bec1d5860e751b99c7418298cf",
-    "name": "Qq",
-    "inputRev?": "master"}},
-  {"git":
-   {"url": "https://github.com/JLimperg/aesop",
-    "subDir?": null,
-    "rev": "ba61f7fec6174d8c7d2796457da5a8d0b0da44c6",
-    "name": "aesop",
-    "inputRev?": "master"}},
-  {"git":
-   {"url": "https://github.com/leanprover/std4",
-    "subDir?": null,
-    "rev": "de7e2a79905a3f87cad1ad5bf57045206f9738c7",
-    "name": "std",
-    "inputRev?": "main"}}]}
+{
+  "version": 4,
+  "packagesDir": "lake-packages",
+  "packages": [
+    {
+      "path": {
+        "name": "supertype",
+        "dir": ".\\..\\lake-packages\\supertype"
+      }
+    },
+    {
+      "path": {
+        "name": "mathlib",
+        "dir": ".\\..\\lake-packages\\mathlib"
+      }
+    },
+    {
+      "path": {
+        "name": "Qq",
+        "dir": ".\\..\\lake-packages\\mathlib\\.\\..\\Qq"
+      }
+    },
+    {
+      "path": {
+        "name": "aesop",
+        "dir": ".\\..\\lake-packages\\mathlib\\.\\..\\aesop"
+      }
+    },
+    {
+      "path": {
+        "name": "std",
+        "dir": ".\\..\\lake-packages\\mathlib\\.\\..\\std"
+      }
+    }
+  ]
+}

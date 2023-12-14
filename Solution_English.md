@@ -6,12 +6,12 @@
 > the third member witnessed the crime, and the fourth helped cover it up 
 > so they were an accessory after the fact.
 > 
-> Clue #1. The accessory and the witness were of opposite sex.
-> Clue #2. The oldest member and the witness were of opposite sex.
-> Clue #3. The youngest member and the victim were of opposite sex.
-> Clue #4. The accessory was older than the victim.
-> Clue #5. The father was the oldest member.
-> Clue #6. The murderer was not the youngest member.
+> - Clue #1. The accessory and the witness were of opposite sex.
+> - Clue #2. The oldest member and the witness were of opposite sex.
+> - Clue #3. The youngest member and the victim were of opposite sex.
+> - Clue #4. The accessory was older than the victim.
+> - Clue #5. The father was the oldest member.
+> - Clue #6. The murderer was not the youngest member.
 > 
 > Solve this Murder, and provide a clear argument that proves your allegations
 

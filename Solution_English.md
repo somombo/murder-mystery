@@ -27,7 +27,7 @@
   
 From Clue #5 we know that the father was was the oldest and from Clue #2 he is therefore the opposite sex from the witnesses. Hence (by Assumption #2),
 
-** Fact #1. The witness had to have been either the mother or the daughters (not that by Assumption #1, the witness cannot be both the mother and daughter)
+** Fact #1. The witness had to have been either the mother or the daughter (note that by Assumption #1, the witness cannot be both the mother and daughter)
 
 Since by Clue #1 the accessory and witness were of the opposite sex, it follows that (by Assumption #2 and Fact #1),
 

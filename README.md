@@ -16,4 +16,6 @@ so they were an accessory after the fact.
 Solve this Murder, and provide a clear argument that proves your allegations
 
 ## Solution
-Here is a solution to the problem (See [solution theorem](https://github.com/somombo/murder-mystery/blob/83a28b620647e3dc4a04b3de47818ac9753e372d/MysteryMurder.lean#L194). Solution is written in lean4)
+Here is a solution to the problem written in:
+  - [English Prose](./Solution_English.md)
+  - [Lean 4](./MysteryMurder.lean#L194) (Interactive Theorem Prover and Programming Language)

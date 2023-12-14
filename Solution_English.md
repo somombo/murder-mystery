@@ -16,9 +16,6 @@
 > Solve this Murder, and provide a clear argument that proves your allegations
 
 ## Solution
-Here is a solution to the problem written in:
-  - [English Prose](./Solution_English.md)
-  - [Lean 4](./MysteryMurder.lean#L194) (Interactive Theorem Prover and Programming Language)
 
 * Assumption #1. Since each family member played a distict role we know that: No two family members had the same role and no two roles were held by the same family member.
 
